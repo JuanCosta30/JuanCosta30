@@ -10,7 +10,7 @@ Aqui estão algumas das tecnologias que estudei e com as quais tenho familiarida
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (estudando)
 - Git
 - GitHub  
   
