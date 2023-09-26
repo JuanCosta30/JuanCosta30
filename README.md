@@ -11,9 +11,13 @@ Aqui estão algumas das tecnologias que estudei e com as quais tenho familiarida
 - HTML
 - CSS
 - JavaScript (estudando)
+- Java (estudando)
 - Git
-- GitHub  
-  
+- GitHub
+- MySQL
+- SQL
+- NoSql
+
 
 ### GitHub Stats
 
