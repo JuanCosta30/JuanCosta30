@@ -14,9 +14,6 @@ Aqui estão algumas das tecnologias que estudei e com as quais tenho familiarida
 - Java (estudando)
 - Git
 - GitHub
-- MySQL
-- SQL
-- NoSql
 
 
 ### GitHub Stats
